@@ -8,7 +8,7 @@ In the following project, I applied three different machine learning algorithms 
 The dataset contains 1,599 observations and 12 attributes related to the red variants of the Portuguese “Vinho Verde” wine. Each row describes the physicochemical properties of one bottle of wine. The first 11 independent variables display numeric information about these characteristics, and the last dependent variable reveals the quality of the wine on a scale from 0 (bad quality wine) to 10 (good quality wine) based on sensory data. Since the outcome variable is ordinal, I chose logistic regression, decision trees, and random forest classification algorithms to answer the following questions:
 
  
-Comparison of the logistic regression, decision tree, and random forest models to predict red wine quality in Python   
+Comparison of the logistic regression, decision tree,  random forest, naive bayes models to predict red wine quality in Python   
 
 Methodology
 
